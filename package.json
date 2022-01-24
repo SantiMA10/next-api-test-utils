@@ -1,6 +1,9 @@
 {
 	"name": "@santima10/next-api-test-utils",
-	"version": "0.0.2",
+	"version": "0.0.3",
+	"publishConfig": {
+		"access": "public"
+	},
 	"description": "The missing testing utils for Next.js API Routes",
 	"repository": "git@github.com:SantiMA10/next-api-test-utils.git",
 	"author": {
