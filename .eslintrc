@@ -1,3 +1,6 @@
 {
-  "extends": ["@santima10/eslint-config"]
+	"extends": ["@santima10/eslint-config"],
+	"env": {
+		"node": true
+	}
 }
