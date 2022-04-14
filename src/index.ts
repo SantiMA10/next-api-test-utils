@@ -1,5 +1,5 @@
 import http from 'http';
-import { apiResolver } from 'next/dist/server/api-utils';
+import { apiResolver } from 'next/dist/server/api-utils/node';
 import testListen from 'test-listen';
 
 interface Options {
